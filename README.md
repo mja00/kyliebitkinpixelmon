@@ -20,6 +20,10 @@ We'll first start off with the rules of the server.
 - No claiming rings around other peoples' bases to stop them from expanding.
 - Have fun. This is a server to hangout with other community members and playing a fun game with them.
 
+# Whitelisting
+
+You will need to automatically whitelist yourself on the server. This is only for subscribers. Go to the minecraft text channel on Discord and type !whitelist [MINECRAFT USERNAME]. This will add you to the whitelist. It takes about 5 minutes to update on server side. If you've already whitelisted an account and it is incorrect please contact a moderator and we will get that fixed for you. 
+
 # Installing Twitch Launcher(Skip if you already have it.)
 
   - Download and install the launcher from [here](https://www.twitch.tv/downloads)
@@ -56,7 +60,7 @@ We'll first start off with the rules of the server.
 
 # Final Steps
 
-You will need to automatically whitelist yourself on the server. This is only for subscribers. Go to the minecraft text channel on Discord and type !whitelist [MINECRAFT USERNAME]. This will add you to the whitelist. It takes about 5 minutes to update on server side. If you've already whitelisted an account and it is incorrect please contact a moderator and we will get that fixed for you. When you join the server before picking a starter press **Ctrl+O(Letter O)** to toggle the JEI overlay. This will let you pick all the starters. Remember this keybind for it is used to toggle back on the JEI interface. 
+When you join the server before picking a starter press **Ctrl+O(Letter O)** to toggle the JEI overlay. This will let you pick all the starters. Remember this keybind for it is used to toggle back on the JEI interface. 
 
 # Final Questions
 If you have any questions please contact mja00#0001 on Discord. He is the owner of the server and can solve most issues. If he is not available Delaser also has panel access and may be able to solve the issue. **UNDER NO CIRCUMSTANCE SHOULD YOU GO TO KYLIE FOR ANY ISSUES**
