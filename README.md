@@ -48,7 +48,15 @@ You will need to automatically whitelist yourself on the server. This is only fo
 - From there you are good to click "Play" on the launcher. 
 - After getting in game press options, goto controls and scroll down till you see the Pixelmon control settings.
 - Set these options to these keys. [Image of keys](https://i.imgur.com/DLMFvrs.jpg). This will let you do most of what pixelmon needs you to do.
- 
+
+# Getting Twitch emotes in game chat.
+
+- On the Twitch Launcher open the ATM3 Lite page like before by clicking the image.
+- Click the settings cog again
+- Press "Profile Options" and uncheck the "Locked" option. Press Okay.
+- Press "Get More Content" it'll be next to the cog.
+- Search for Chat Tweaks and install it
+- You now got twitch emotes in Minecraft
 #### Updating the All The Mods modpack will force you to go through all of this again.
 
 # Creating and managing your claimed land.
