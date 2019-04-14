@@ -57,6 +57,7 @@ You will need to automatically whitelist yourself on the server. This is only fo
 - Press "Get More Content" it'll be next to the cog.
 - Search for Chat Tweaks and install it
 - You now got twitch emotes in Minecraft
+- To get BTTV and FFZ emotes that are channel specific you'll see a "..." in the bottom right corner. That opens the settings. Dig around there.
 #### Updating the All The Mods modpack will force you to go through all of this again.
 
 # Creating and managing your claimed land.
