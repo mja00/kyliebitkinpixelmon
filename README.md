@@ -2,6 +2,8 @@
 
 Welcome to the install process on how to get onto the community server.
 
+You must be a sub to play. Once you sub runs out you will automatically be removed from the server. Make sure you stay on top of things! You stuff will not be wiped if you lose your sub so you can go a week or two without resubbing and not worry.
+
 We'll first start off with the rules of the server.
 
 # Rules
