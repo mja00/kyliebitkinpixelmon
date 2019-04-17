@@ -48,6 +48,7 @@ You will need to automatically whitelist yourself on the server. This is only fo
 - From there you are good to click "Play" on the launcher. 
 - After getting in game press options, goto controls and scroll down till you see the Pixelmon control settings.
 - Set these options to these keys. [Image of keys](https://i.imgur.com/DLMFvrs.jpg). This will let you do most of what pixelmon needs you to do.
+- The IP of the server is **mc.kyliebitkin.com**
 
 # Getting Twitch emotes in game chat.
 
