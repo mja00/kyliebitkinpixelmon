@@ -31,9 +31,9 @@ You will need to automatically whitelist yourself on the server. This is only fo
 
 # Installing the Modpack
 
-- We use the All The Mods 3 Lite as a base for the server.
+- We use the FTB Revelation Lite as a base for the server.
 - After clicking Minecraft in the Mods tab, click Browse Modpacks.
-- Search for "All the Mods 3: Lite". Click install on the one that shows up. **MAKE SURE IT IS THE LITE VERSION**
+- Search for "FTB Revelation". Click install on the one that shows up.
 - Once it is installed move onto the next step.
 
 # Installing the Pixelmon mod
